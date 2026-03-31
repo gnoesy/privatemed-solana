@@ -37,6 +37,92 @@ function log(event: string, data: Record<string, unknown> = {}) {
   console.log(line);
 }
 
+async function withRpcRetry<T>(fn: () => Promise<T>, retries = 8): Promise<T> {
+  let delayMs = 500;
+  for (let attempt = 1; ; attempt++) {
+    try {
+      return await fn();
+    } catch (error: any) {
+      const message = error?.message || String(error);
+      if (attempt >= retries || !message.includes("429")) {
+        throw error;
+      }
+      await new Promise((resolve) => setTimeout(resolve, delayMs));
+      delayMs *= 2;
+    }
+  }
+}
+
+async function confirmSignatureByPolling(
+  connection: anchor.web3.Connection,
+  signature: string,
+  lastValidBlockHeight: number,
+  commitment: anchor.web3.Commitment,
+): Promise<void> {
+  for (;;) {
+    const [{ value: statuses }, currentBlockHeight] = await Promise.all([
+      withRpcRetry(() => connection.getSignatureStatuses([signature])),
+      withRpcRetry(() => connection.getBlockHeight(commitment)),
+    ]);
+
+    const status = statuses[0];
+    if (status?.err) {
+      throw new Error(`Signature ${signature} failed: ${JSON.stringify(status.err)}`);
+    }
+    if (
+      status &&
+      (status.confirmationStatus === "confirmed" ||
+        status.confirmationStatus === "finalized")
+    ) {
+      return;
+    }
+    if (currentBlockHeight > lastValidBlockHeight) {
+      throw new Error(`Signature ${signature} has expired: block height exceeded.`);
+    }
+    await new Promise((resolve) => setTimeout(resolve, 1500));
+  }
+}
+
+async function sendAndConfirmCompat(
+  provider: anchor.AnchorProvider,
+  tx: anchor.web3.Transaction,
+  signers: anchor.web3.Signer[] = [],
+  opts: anchor.web3.ConfirmOptions = {},
+): Promise<string> {
+  const commitment = opts.commitment || opts.preflightCommitment || "confirmed";
+  const latest = await withRpcRetry(() =>
+    provider.connection.getLatestBlockhash({ commitment }),
+  );
+
+  tx.feePayer ||= provider.publicKey;
+  tx.recentBlockhash ||= latest.blockhash;
+  tx.lastValidBlockHeight ||= latest.lastValidBlockHeight;
+
+  if (signers.length > 0) {
+    tx.partialSign(...signers);
+  }
+
+  const signed = await provider.wallet.signTransaction(tx);
+  const sig = await withRpcRetry(() =>
+    provider.connection.sendRawTransaction(signed.serialize(), {
+      skipPreflight: opts.skipPreflight,
+      preflightCommitment: opts.preflightCommitment || commitment,
+      maxRetries: opts.maxRetries,
+    }),
+  );
+
+  await withRpcRetry(() =>
+    confirmSignatureByPolling(
+      provider.connection,
+      sig,
+      tx.lastValidBlockHeight!,
+      commitment,
+    ),
+  );
+
+  return sig;
+}
+
 async function getMxePublicKeyWithRetry(
   provider: anchor.AnchorProvider,
   programId: PublicKey,
@@ -60,8 +146,11 @@ async function main() {
 
   const walletPath = process.env.ANCHOR_WALLET || `${os.homedir()}/.config/solana/devnet.json`;
   const conn = new anchor.web3.Connection(
-    process.env.ANCHOR_PROVIDER_URL || "https://api.devnet.solana.com",
-    "confirmed",
+    process.env.ANCHOR_PROVIDER_URL || process.env.RPC_URL || "https://api.devnet.solana.com",
+    {
+      commitment: "confirmed",
+      wsEndpoint: process.env.WS_RPC_URL,
+    },
   );
   const owner = Keypair.fromSecretKey(
     new Uint8Array(JSON.parse(fs.readFileSync(walletPath).toString())),
@@ -70,6 +159,11 @@ async function main() {
     commitment: "confirmed",
     skipPreflight: true,
   });
+  provider.sendAndConfirm = (
+    tx: anchor.web3.Transaction,
+    signers?: anchor.web3.Signer[],
+    opts?: anchor.web3.ConfirmOptions,
+  ) => sendAndConfirmCompat(provider, tx, signers || [], opts || {});
   anchor.setProvider(provider);
 
   const idl = JSON.parse(fs.readFileSync(path.join(__dirname, "../target/idl/privatemed.json"), "utf-8"));
