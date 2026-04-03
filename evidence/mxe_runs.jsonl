@@ -3052,3 +3052,237 @@
 {"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-01T23:55:47.490Z"}
 {"event":"balance","sol":1.734814029,"ts":"2026-04-01T23:55:48.067Z"}
 {"event":"error","msg":"Signature 4gDMGgT621vXdz5GgFiLKMspQgbM1JP3oqtzeGYFyMSCkoaQvpfieAKHi4SjEh3YrPcfHStsKh6q7EXw1x82e8YK has expired: block height exceeded.","ts":"2026-04-01T23:56:33.244Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-02T00:18:33.527Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (79, 70)","ts":"2026-04-02T00:18:34.088Z"}
+{"event":"interaction_queued","sig":"i46Y82guqjjx9unGzbztVmN6Ssbg5RDeKtPYaGQVeu2KHRsMJiyYf6EUW2X1m4DW1V6wcq9dEYvF9LsakZiQqbn","explorer":"https://explorer.solana.com/tx/i46Y82guqjjx9unGzbztVmN6Ssbg5RDeKtPYaGQVeu2KHRsMJiyYf6EUW2X1m4DW1V6wcq9dEYvF9LsakZiQqbn?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-02T00:18:37.167Z"}
+{"event":"interaction_success","queueSig":"i46Y82guqjjx9unGzbztVmN6Ssbg5RDeKtPYaGQVeu2KHRsMJiyYf6EUW2X1m4DW1V6wcq9dEYvF9LsakZiQqbn","finalizeSig":"tid1b2Z18imMBAaNcmwKrFQdqbs4ZbfREdicwWga21qg6VcFf7wTuTskyAbMC3eSRP3sqoR1F6NRgY14dtEynSZ","clusterOffset":456,"ts":"2026-04-02T00:19:10.994Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T00:26:34.381Z"}
+{"event":"balance","sol":1.717133352,"ts":"2026-04-02T00:26:35.014Z"}
+{"event":"error","msg":"Signature 4JNKErqs3zJ1bLQ95VnWfTmJZi7287LstMGHP7wGSidM7MJwzhbmZRgFV1BqRq6iabyEz5GU2MstRyqN6CE91xnw has expired: block height exceeded.","ts":"2026-04-02T00:27:20.781Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T00:57:22.165Z"}
+{"event":"balance","sol":1.712660625,"ts":"2026-04-02T00:57:22.696Z"}
+{"event":"error","msg":"Signature 23wUsJHofXMjyEDpPczei4g9CV7wCxtpSELjztFTZXaARotRFVgdogHEJcHtt7V8RsvLDWrGKxwtwqRsrdRZ97o1 has expired: block height exceeded.","ts":"2026-04-02T00:58:08.482Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-02T01:20:07.812Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (42, 75)","ts":"2026-04-02T01:20:08.375Z"}
+{"event":"interaction_queued","sig":"2gWu6uaVgx6rMtsChKMMJwCRjamMCnApk2ZjZ7VMLM84HcBxKwhyMD349kesCGgsR4hFik6KTfFPrUZtLNxWFLn7","explorer":"https://explorer.solana.com/tx/2gWu6uaVgx6rMtsChKMMJwCRjamMCnApk2ZjZ7VMLM84HcBxKwhyMD349kesCGgsR4hFik6KTfFPrUZtLNxWFLn7?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-02T01:20:11.391Z"}
+{"event":"interaction_success","queueSig":"2gWu6uaVgx6rMtsChKMMJwCRjamMCnApk2ZjZ7VMLM84HcBxKwhyMD349kesCGgsR4hFik6KTfFPrUZtLNxWFLn7","finalizeSig":"LdSLmvf6b3pVbm8GgSZDgg3QAA7336Jv2o62ZqCGDjoTqT1dcLev7mgH7687tBHDy4Ry9jGc9DCx34CEnEYMmua","clusterOffset":456,"ts":"2026-04-02T01:20:44.981Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T01:28:09.815Z"}
+{"event":"balance","sol":1.694971045,"ts":"2026-04-02T01:28:10.395Z"}
+{"event":"error","msg":"Signature 2QYHCjfosF9a5mX4oSZr4UFgQtXSHd2TnfJztKUj6LwcFkXSRWcgxKw3QqcZCVTUcReiHwPehH96mR3pJtFveQSC has expired: block height exceeded.","ts":"2026-04-02T01:28:56.974Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T01:58:58.420Z"}
+{"event":"balance","sol":1.690551199,"ts":"2026-04-02T01:58:58.966Z"}
+{"event":"error","msg":"Signature 3YvJxUDPyDvjAb7ob8gJeP7foWxUU4U2fPRJbn2h1GDSEvg9puXaMpVLUoYMfum7RypJ3VVwuMzAkZx1s41JRncw has expired: block height exceeded.","ts":"2026-04-02T01:59:44.996Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-02T02:21:42.011Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (78, 90)","ts":"2026-04-02T02:21:42.593Z"}
+{"event":"interaction_queued","sig":"4a1aLq3nxsdMhA8Bt8b5mdmxRSE2rdTTLQAdpbY6iRpyuEkg5cdksZqVZ7CckN8oRAR4TqibPwbfp9kdrLoYAyWz","explorer":"https://explorer.solana.com/tx/4a1aLq3nxsdMhA8Bt8b5mdmxRSE2rdTTLQAdpbY6iRpyuEkg5cdksZqVZ7CckN8oRAR4TqibPwbfp9kdrLoYAyWz?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-02T02:21:45.687Z"}
+{"event":"interaction_success","queueSig":"4a1aLq3nxsdMhA8Bt8b5mdmxRSE2rdTTLQAdpbY6iRpyuEkg5cdksZqVZ7CckN8oRAR4TqibPwbfp9kdrLoYAyWz","finalizeSig":"4Jf9k78iXfQHD1bsMb57v5iPXv2114J6WhoD9DwuWtN8FsAyCduCLSwYRQzo89YNHG7HdvP12tswbTSWxHLwuBb8","clusterOffset":456,"ts":"2026-04-02T02:22:21.020Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T02:29:46.379Z"}
+{"event":"balance","sol":1.672814924,"ts":"2026-04-02T02:29:46.992Z"}
+{"event":"error","msg":"Signature 4VUCxftTst85R6ANooErZ8FkYbaoxRTBrvPyQDV4V9uHrLEiEenfKr1hrMUkcRZ9QR1UDrqMTVB7h7cquGTvF4YW has expired: block height exceeded.","ts":"2026-04-02T02:30:33.552Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T03:00:35.012Z"}
+{"event":"balance","sol":1.668388779,"ts":"2026-04-02T03:00:35.553Z"}
+{"event":"error","msg":"Signature 2b9AYJNjnNcojh3YXuVTjaaynUNMeTZ2f6GTRxGZ2qBa22DYWUc3VoRjTDTgdv8hmSS1Kooo93t7X6dXXmdVEDTf has expired: block height exceeded.","ts":"2026-04-02T03:01:21.663Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-02T03:23:16.529Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (54, 74)","ts":"2026-04-02T03:23:17.152Z"}
+{"event":"interaction_queued","sig":"3BpUn4CCKhyDwUoSNV7v8hifJApZ8GqwifEHrqdc9i7HZBKAjEWB6BET8M5ZmnF9d6tVHwekWK9QfJwomqwoQ4wh","explorer":"https://explorer.solana.com/tx/3BpUn4CCKhyDwUoSNV7v8hifJApZ8GqwifEHrqdc9i7HZBKAjEWB6BET8M5ZmnF9d6tVHwekWK9QfJwomqwoQ4wh?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-02T03:23:20.258Z"}
+{"event":"interaction_success","queueSig":"3BpUn4CCKhyDwUoSNV7v8hifJApZ8GqwifEHrqdc9i7HZBKAjEWB6BET8M5ZmnF9d6tVHwekWK9QfJwomqwoQ4wh","finalizeSig":"4RHS2LUqg7y2r1JmhSMQFPZo1nkyVL52P5N8YerZGsDbpnhvmDcZvWKCkfypnnXkhBk2QzJ1WP92ULFEgMK9VPZB","clusterOffset":456,"ts":"2026-04-02T03:23:53.433Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T03:31:23.121Z"}
+{"event":"balance","sol":1.65070569,"ts":"2026-04-02T03:31:23.683Z"}
+{"event":"error","msg":"Signature 5jD99NB3oB8MwmxP2x1zt1Ny7z59DasfRM4zRSK9R6yJ8wQKAXFwjTwBbB2zN2EYdGN8TXb57HMHNFiXsMvyFopZ has expired: block height exceeded.","ts":"2026-04-02T03:32:09.694Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T04:02:10.990Z"}
+{"event":"balance","sol":1.646233988,"ts":"2026-04-02T04:02:11.529Z"}
+{"event":"error","msg":"Signature 2whec5DD4DTLZD3ZDYzRrqeTVxNx4gA6ai5xTo4o11NAiKQgqKeoSSpoemaKMAbUFg4BrZDFia9AdQpg6RMwue6j has expired: block height exceeded.","ts":"2026-04-02T04:02:57.416Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-02T04:24:51.095Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (59, 63)","ts":"2026-04-02T04:24:51.707Z"}
+{"event":"interaction_queued","sig":"29pMy1R6hdR9Lo7W3VpzgoQNtasnKVb84XPbQZgvVp9uXBn8C29AA9fgPcsBuxiquRLo7bkig1jW5hMirLhHkF1N","explorer":"https://explorer.solana.com/tx/29pMy1R6hdR9Lo7W3VpzgoQNtasnKVb84XPbQZgvVp9uXBn8C29AA9fgPcsBuxiquRLo7bkig1jW5hMirLhHkF1N?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-02T04:24:54.819Z"}
+{"event":"interaction_success","queueSig":"29pMy1R6hdR9Lo7W3VpzgoQNtasnKVb84XPbQZgvVp9uXBn8C29AA9fgPcsBuxiquRLo7bkig1jW5hMirLhHkF1N","finalizeSig":"3JmG5oPdbVZ6Z13WQZvsY7UvMvmUyWbXB6gttpZ2XRsbATbDCsNG1XCn11w263YibUGJVU2RjuMp1QGmYfNnpybt","clusterOffset":456,"ts":"2026-04-02T04:25:27.520Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T04:32:58.879Z"}
+{"event":"balance","sol":1.628549074,"ts":"2026-04-02T04:32:59.484Z"}
+{"event":"error","msg":"Signature 31LMqJQBqKDuHhfrUjgnXiXCSELryZ2hyLwKyjvmbUEHntYU2fu87jyk244yuvK7YcRDWLhwVJJ7soQa74BLHT8Y has expired: block height exceeded.","ts":"2026-04-02T04:33:45.079Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T05:03:46.353Z"}
+{"event":"balance","sol":1.619682385,"ts":"2026-04-02T05:03:46.922Z"}
+{"event":"error","msg":"Signature 3oaZBDKFr8K4nn4Qx48bqoaQV2c3sxbvj5qxYTN31CcLTTW8V4Jog7LTq4LnaeCAnmxtUaFKpbAGDDeUm32bn4wM has expired: block height exceeded.","ts":"2026-04-02T05:04:32.366Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-02T05:26:25.848Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (60, 78)","ts":"2026-04-02T05:26:26.404Z"}
+{"event":"interaction_queued","sig":"rkFCdjqyKHHf6K6DvjCKi1uvGKhcFhoMPfU4RMDVTMYJwyPnVqdKUgSwRbwSPjcu9hroaYAzskLxnkRVxdy8Unz","explorer":"https://explorer.solana.com/tx/rkFCdjqyKHHf6K6DvjCKi1uvGKhcFhoMPfU4RMDVTMYJwyPnVqdKUgSwRbwSPjcu9hroaYAzskLxnkRVxdy8Unz?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-02T05:26:29.433Z"}
+{"event":"interaction_success","queueSig":"rkFCdjqyKHHf6K6DvjCKi1uvGKhcFhoMPfU4RMDVTMYJwyPnVqdKUgSwRbwSPjcu9hroaYAzskLxnkRVxdy8Unz","finalizeSig":"3pkfwaoN99aMuCuhMkU2Ds7pxpirfcyRjMYvzKXPK45xphSbTJh13d5NYeEzaypgVGSiG5g6TEMindvDbYmdzgAN","clusterOffset":456,"ts":"2026-04-02T05:27:01.659Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T05:34:33.714Z"}
+{"event":"balance","sol":1.606389981,"ts":"2026-04-02T05:34:34.355Z"}
+{"event":"error","msg":"Signature vVzFNnqByw4xKCcczDqr6ffs3YnzDQ3ZbTJAhtjy9fKRSAWu39h4qsdVGFe9JRAbcKbcXymatQapxtJAqFHQ3qG has expired: block height exceeded.","ts":"2026-04-02T05:35:19.673Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T06:05:21.107Z"}
+{"event":"balance","sol":1.597547104,"ts":"2026-04-02T06:05:21.736Z"}
+{"event":"error","msg":"Signature 5JaESJanGNd2u42pbXiiegTA478grXoyxreJK7Apt37mRskssgahfVapn1DEpFTYmXq6fnG3gviNFMSBKHvpF1DG has expired: block height exceeded.","ts":"2026-04-02T06:06:08.289Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-02T06:28:00.527Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (56, 24)","ts":"2026-04-02T06:28:01.185Z"}
+{"event":"interaction_queued","sig":"3MZvc2tZ54n5uBaFeJACEkfEe5YJQTrtUqjkocrgzmn2iQ5vcsBonR7Rd7BQwnhkuCo4msocCymXaWB5vRj7Lb62","explorer":"https://explorer.solana.com/tx/3MZvc2tZ54n5uBaFeJACEkfEe5YJQTrtUqjkocrgzmn2iQ5vcsBonR7Rd7BQwnhkuCo4msocCymXaWB5vRj7Lb62?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-02T06:28:04.302Z"}
+{"event":"interaction_success","queueSig":"3MZvc2tZ54n5uBaFeJACEkfEe5YJQTrtUqjkocrgzmn2iQ5vcsBonR7Rd7BQwnhkuCo4msocCymXaWB5vRj7Lb62","finalizeSig":"4ujXr67P7ZS7AuG68ZndJgvweXNaQRS3Zx8rgEHeFsr8pc2bJzfQQxwPEfY3MquZJkBt2xtsfqBPorGi7ZEgj3ad","clusterOffset":456,"ts":"2026-04-02T06:28:38.923Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T06:36:09.804Z"}
+{"event":"balance","sol":1.584259198,"ts":"2026-04-02T06:36:10.386Z"}
+{"event":"error","msg":"Signature 33eYBa52RpJvGdBzV5S4WKFx35YEr3XEvFFo3zDFnaVdu55h2HMriwPZzYkRwkFfVFtTqPozeB83yLGEkq5L18kQ has expired: block height exceeded.","ts":"2026-04-02T06:36:55.749Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T07:06:57.013Z"}
+{"event":"balance","sol":1.575389238,"ts":"2026-04-02T07:06:57.534Z"}
+{"event":"error","msg":"Signature aLAGgn8hn2mDtogwg9QrGzqSHtDobC9rj1PjyFTz8jzPV2RoFczAxRJouegaxZjfEaYmpkC6WhTJQmsNcR7c1Nu has expired: block height exceeded.","ts":"2026-04-02T07:07:44.179Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-02T07:29:35.362Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (43, 85)","ts":"2026-04-02T07:29:35.998Z"}
+{"event":"interaction_queued","sig":"24tQ5yDBRPQ46x5Pr99pWMUPZtNYiRgau4XtjoSW3o6Sv5DFEGcM4JTmyPTYJt8gc6K2GSdacfYe25EfUvXzbniG","explorer":"https://explorer.solana.com/tx/24tQ5yDBRPQ46x5Pr99pWMUPZtNYiRgau4XtjoSW3o6Sv5DFEGcM4JTmyPTYJt8gc6K2GSdacfYe25EfUvXzbniG?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-02T07:29:39.049Z"}
+{"event":"interaction_success","queueSig":"24tQ5yDBRPQ46x5Pr99pWMUPZtNYiRgau4XtjoSW3o6Sv5DFEGcM4JTmyPTYJt8gc6K2GSdacfYe25EfUvXzbniG","finalizeSig":"Ci7AgMEdcXBBDK4SzYeeibt1LbKraXtUxBX1Shxkctn2FqBRrWsC8Ye8Ueac9ktfXCpGcXEW1zdrFMXR12o5Rj4","clusterOffset":456,"ts":"2026-04-02T07:30:12.805Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T07:37:45.421Z"}
+{"event":"balance","sol":1.562123858,"ts":"2026-04-02T07:37:46.028Z"}
+{"event":"error","msg":"Signature 4CPuFQjFijFDb5sKfoohCRaG4gaWmiKYyrBjTaX6YrNT2xCyZ39EKHCNd61mAJcM6ugAMHzbUDLZfmvvnFu2rvdt has expired: block height exceeded.","ts":"2026-04-02T07:38:32.078Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T08:08:33.288Z"}
+{"event":"balance","sol":1.553254916,"ts":"2026-04-02T08:08:33.810Z"}
+{"event":"error","msg":"Signature f3Z3hUVrjNR7XER7QtBNchbLRfUzZN2Pr3HxD7VuQ2yiK3okv6jczgdLe31XmT8VtB5RGW1PRnMZi5okUrXxQ7T has expired: block height exceeded.","ts":"2026-04-02T08:09:19.160Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-02T08:31:10.265Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (48, 83)","ts":"2026-04-02T08:31:10.887Z"}
+{"event":"interaction_queued","sig":"4X4pcmuBwazPYhNRcycdaRR7gxR78npQNoJKGb8dewUmBqV3gMNc6P74QjhgKkXs5GaSfCpatH22K1assGAbPbUs","explorer":"https://explorer.solana.com/tx/4X4pcmuBwazPYhNRcycdaRR7gxR78npQNoJKGb8dewUmBqV3gMNc6P74QjhgKkXs5GaSfCpatH22K1assGAbPbUs?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-02T08:31:14.406Z"}
+{"event":"interaction_success","queueSig":"4X4pcmuBwazPYhNRcycdaRR7gxR78npQNoJKGb8dewUmBqV3gMNc6P74QjhgKkXs5GaSfCpatH22K1assGAbPbUs","finalizeSig":"EyEAHV4XP1vckyCKk7hK4qGXVu9uagJyxnCQTmJvGJktDAhhhsSLyEWnAVpfDFdUXm3xVXYR3zyYDXmxXyeERdb","clusterOffset":456,"ts":"2026-04-02T08:31:47.455Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T08:39:20.420Z"}
+{"event":"balance","sol":1.539962735,"ts":"2026-04-02T08:39:20.947Z"}
+{"event":"error","msg":"Signature 4iDyr35bSi1BC4C3GjeFpEQjnFzxE7UXCUo9aKgkzS5gfAUrE8UuELPwx5VFtEkn356kH9UDKvzpTKnJytmmApXu has expired: block height exceeded.","ts":"2026-04-02T08:40:08.198Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T09:10:09.634Z"}
+{"event":"balance","sol":1.53111937,"ts":"2026-04-02T09:10:10.186Z"}
+{"event":"error","msg":"Signature 4scbznHZ9YnvE2cbk1FKeuYmFddkDC7hJgvUcCP81jaVUw5ttJKKovARG3zMkTbhnwWvRcE6VryoTa7U7MC2CKbf has expired: block height exceeded.","ts":"2026-04-02T09:10:56.017Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-02T09:32:45.265Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (52, 98)","ts":"2026-04-02T09:32:45.870Z"}
+{"event":"interaction_queued","sig":"5E5Py12fzXaSTuyzPdc1nL51B2jKJDAhiMJaSdvUeVeVFqGzvt19BhGkCgnh1SWvtfAKrTq5FT8t9hYjfwYaQNaM","explorer":"https://explorer.solana.com/tx/5E5Py12fzXaSTuyzPdc1nL51B2jKJDAhiMJaSdvUeVeVFqGzvt19BhGkCgnh1SWvtfAKrTq5FT8t9hYjfwYaQNaM?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-02T09:32:49.463Z"}
+{"event":"interaction_success","queueSig":"5E5Py12fzXaSTuyzPdc1nL51B2jKJDAhiMJaSdvUeVeVFqGzvt19BhGkCgnh1SWvtfAKrTq5FT8t9hYjfwYaQNaM","finalizeSig":"3qocReXUzYx7BXJQVDCkBctjFx7np9Y5Qts9ZbfpXcmTfVwxypwtZzGjufF6J3iZxxXJ94LrZ7ArGN3S89B6aBBj","clusterOffset":456,"ts":"2026-04-02T09:33:24.160Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T09:40:57.331Z"}
+{"event":"balance","sol":1.517830161,"ts":"2026-04-02T09:40:57.919Z"}
+{"event":"error","msg":"Signature 4UP5VNGWzFryZq5Ydppx9WxDaTFJpCNN2FWcofvgqjymKQ3wrVY7DiRsUV4kPwj3mu8UnvUPr7i3UaBbUt1ViPt1 has expired: block height exceeded.","ts":"2026-04-02T09:41:44.262Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T10:11:45.568Z"}
+{"event":"balance","sol":1.508960669,"ts":"2026-04-02T10:11:46.166Z"}
+{"event":"error","msg":"Signature 2xSRZgdVn91gHcejici5DWC5GLLBwuCBh7CJQ47vKiZi6M9xpXBQYvzL1Hfa1WdarkvEL8PHfuAaBPQaa5TMGru3 has expired: block height exceeded.","ts":"2026-04-02T10:12:32.540Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-02T10:34:20.348Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (52, 60)","ts":"2026-04-02T10:34:20.876Z"}
+{"event":"interaction_queued","sig":"3LaZKHouKwcVj3pM6dKoj5NngeikG7ntVinRtcYJKQWagWyMuAFAQKMP7naCivUnPgWgLAZoifT8oWrkTLxzHVqB","explorer":"https://explorer.solana.com/tx/3LaZKHouKwcVj3pM6dKoj5NngeikG7ntVinRtcYJKQWagWyMuAFAQKMP7naCivUnPgWgLAZoifT8oWrkTLxzHVqB?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-02T10:34:23.953Z"}
+{"event":"interaction_success","queueSig":"3LaZKHouKwcVj3pM6dKoj5NngeikG7ntVinRtcYJKQWagWyMuAFAQKMP7naCivUnPgWgLAZoifT8oWrkTLxzHVqB","finalizeSig":"4JDj8WPJwk3Y8csbWgZ9N4oYa4EVSDCYf9a5CnbL7SUX7EF3nkMBQxcwmHVVxcKJG6fBaFUgC5Db6Uydp4H5CgV1","clusterOffset":456,"ts":"2026-04-02T10:34:57.469Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T10:42:33.871Z"}
+{"event":"balance","sol":1.495695044,"ts":"2026-04-02T10:42:34.512Z"}
+{"event":"error","msg":"Signature 5F854PHXQQQLQmSE4V6NXd5pfgGfZetC1jLAx7a3AmJYwP7zhgbHz68j52xYRbxqasJsvpDJ6KE6E57FtMzva3cu has expired: block height exceeded.","ts":"2026-04-02T10:43:20.091Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T11:13:21.458Z"}
+{"event":"balance","sol":1.486829643,"ts":"2026-04-02T11:13:22.093Z"}
+{"event":"error","msg":"Signature 3Dx6mV3AWn9PohtcJKj3g2AUVyrHFy6Pww3s7XJpu4Ma5V8G3XMAKwK9BkxzgLXDxEktX2izm55oMz8xHHgsnBJx has expired: block height exceeded.","ts":"2026-04-02T11:14:07.922Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-02T11:35:54.787Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (45, 18)","ts":"2026-04-02T11:35:55.335Z"}
+{"event":"interaction_queued","sig":"4i9Xpmr5fyQEyLmQbexdmqpF24TYonQb1jFDg9k4WaYZNq1T6x5kMBV5CLpGEoHnFWurQUbh7vqhBiZk6eZrEnkT","explorer":"https://explorer.solana.com/tx/4i9Xpmr5fyQEyLmQbexdmqpF24TYonQb1jFDg9k4WaYZNq1T6x5kMBV5CLpGEoHnFWurQUbh7vqhBiZk6eZrEnkT?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-02T11:35:58.540Z"}
+{"event":"interaction_success","queueSig":"4i9Xpmr5fyQEyLmQbexdmqpF24TYonQb1jFDg9k4WaYZNq1T6x5kMBV5CLpGEoHnFWurQUbh7vqhBiZk6eZrEnkT","finalizeSig":"y3rSuWxoPgDrgmDuT9STJiMgzBf9kDKKLgFrnKstNJsTvaPdqGXMiSMFPJCiCFTuUBDFoQAMMcWESDip3C49RQa","clusterOffset":456,"ts":"2026-04-02T11:36:33.112Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T11:44:09.168Z"}
+{"event":"balance","sol":1.469117887,"ts":"2026-04-02T11:44:09.729Z"}
+{"event":"error","msg":"Signature 26grwPM9PDFuZ2NvBAHwEWKvEsc9C97mK1zp5iRSvKpqsZmqSZ3PixmqiQuJgCzhk7Pd3AxkictxiQzmTTRr4hFx has expired: block height exceeded.","ts":"2026-04-02T11:44:55.693Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T12:14:56.964Z"}
+{"event":"balance","sol":1.464695809,"ts":"2026-04-02T12:14:57.539Z"}
+{"event":"error","msg":"Signature 3tWEYvnhadsL61ww1CN9Bisxx1DQdGh6xjA21XhF3DcppDWQ61gqi1QyWuyV8aQCPnRY59xDeQVZW9YsafxyUTZ1 has expired: block height exceeded.","ts":"2026-04-02T12:15:42.533Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-02T12:37:29.675Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (27, 53)","ts":"2026-04-02T12:37:30.264Z"}
+{"event":"interaction_queued","sig":"2jxSKnsJtBxcna8bntaqM2sBHSyrbYwmd15CTJgKk23UDqujQqb6SrbTSXEtM1mrbadrmWi9WReUGZUcTTT76smd","explorer":"https://explorer.solana.com/tx/2jxSKnsJtBxcna8bntaqM2sBHSyrbYwmd15CTJgKk23UDqujQqb6SrbTSXEtM1mrbadrmWi9WReUGZUcTTT76smd?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-02T12:37:33.265Z"}
+{"event":"interaction_success","queueSig":"2jxSKnsJtBxcna8bntaqM2sBHSyrbYwmd15CTJgKk23UDqujQqb6SrbTSXEtM1mrbadrmWi9WReUGZUcTTT76smd","finalizeSig":"3btqsT2J1oWJroePNzN5ENenAEwdZ6nP1RPQxKvvNWCBikh1NvDeJAcoFKAJZ2Gw4EyWBCrGwfmmpbLHC8LBLSu3","clusterOffset":456,"ts":"2026-04-02T12:38:06.757Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T12:45:43.906Z"}
+{"event":"balance","sol":1.446961478,"ts":"2026-04-02T12:45:44.491Z"}
+{"event":"error","msg":"Signature 2cHGvs2PVPwWcsgkoCPfbjRz5iyLHEoVLMnQ2wamagABBwANmovG31FRedhUCuU2GzthHCCaHLxaGTjpUV85Gg1R has expired: block height exceeded.","ts":"2026-04-02T12:46:30.199Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T13:16:31.816Z"}
+{"event":"balance","sol":1.442535333,"ts":"2026-04-02T13:16:32.487Z"}
+{"event":"error","msg":"Signature 2715ZGmNrCUrRKE371BhGyxpemynoD8cXk1MmAwbuS9DAreRh2jTNV8C8V3LBAzGQoo6vQZuW3miKJXhpiX7N6d1 has expired: block height exceeded.","ts":"2026-04-02T13:17:18.171Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-02T13:39:03.881Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (18, 9)","ts":"2026-04-02T13:39:04.464Z"}
+{"event":"interaction_queued","sig":"2JirF6sQiEKNqFWgVaAfCJk3UuPpRmJFzGJ8LhpCCaAWTJAKGgqq3Z9A4TiK1XRde4T3WT2Nc3A89Wwg7LoCp138","explorer":"https://explorer.solana.com/tx/2JirF6sQiEKNqFWgVaAfCJk3UuPpRmJFzGJ8LhpCCaAWTJAKGgqq3Z9A4TiK1XRde4T3WT2Nc3A89Wwg7LoCp138?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-02T13:39:07.972Z"}
+{"event":"interaction_success","queueSig":"2JirF6sQiEKNqFWgVaAfCJk3UuPpRmJFzGJ8LhpCCaAWTJAKGgqq3Z9A4TiK1XRde4T3WT2Nc3A89Wwg7LoCp138","finalizeSig":"4feEESWzGDA7VVHTEaBAYqVqWmoscgAKfyg1w5LNbzwLHVTAgmRCUugThP6zrCvkeAbdnrSjGYc6fC7h8HaAn6aZ","clusterOffset":456,"ts":"2026-04-02T13:39:42.595Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T13:47:20.812Z"}
+{"event":"balance","sol":1.424853754,"ts":"2026-04-02T13:47:21.410Z"}
+{"event":"error","msg":"Signature 4DHFPqA4qwsquh3STp9QuxskgGCJGZwfg42M6fHhGxCvc1z84doGxkCxUwva8S81Rfm19ypkmc7NVBoiqavZNAvK has expired: block height exceeded.","ts":"2026-04-02T13:48:08.456Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T14:18:09.755Z"}
+{"event":"balance","sol":1.420379886,"ts":"2026-04-02T14:18:10.324Z"}
+{"event":"error","msg":"Signature 67fvk3feWv65epVBXkXeijy59GHx6wmzfoKrDFpWK71JE98k5V7pkk6iKFwyRrsUTSypKRHhXbdcED3Y8SympfuQ has expired: block height exceeded.","ts":"2026-04-02T14:18:57.682Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-02T14:40:38.850Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (70, 89)","ts":"2026-04-02T14:40:39.452Z"}
+{"event":"interaction_queued","sig":"4xLiASwanB5WELF6CV6P3NkyroJj1Fx7dnx6G4h2DGhkejVJtwV7PjKHW4GNaGupzT6mRo5AcntrHsGZa3nmMszH","explorer":"https://explorer.solana.com/tx/4xLiASwanB5WELF6CV6P3NkyroJj1Fx7dnx6G4h2DGhkejVJtwV7PjKHW4GNaGupzT6mRo5AcntrHsGZa3nmMszH?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-02T14:40:43.041Z"}
+{"event":"interaction_success","queueSig":"4xLiASwanB5WELF6CV6P3NkyroJj1Fx7dnx6G4h2DGhkejVJtwV7PjKHW4GNaGupzT6mRo5AcntrHsGZa3nmMszH","finalizeSig":"4jUZawWRi2Wd4senY2WgqRLzohxYA9eHP6EaK1AcPnnn14EcUbm9R1V6XHuootLKoH1bcMUradUP43bKi4ZjPb9V","clusterOffset":456,"ts":"2026-04-02T14:41:13.862Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T14:48:58.957Z"}
+{"event":"balance","sol":1.402690306,"ts":"2026-04-02T14:48:59.573Z"}
+{"event":"error","msg":"Signature 4TwBFQM7MC8tN1X9NXxY5mxab5PRfHwtsNxzCJUqUHJYhDpbUMbxstu4MdYQgPfjTpEhucwUnskV7399iJrZzGf8 has expired: block height exceeded.","ts":"2026-04-02T14:49:46.287Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T15:19:47.696Z"}
+{"event":"balance","sol":1.398270337,"ts":"2026-04-02T15:19:48.256Z"}
+{"event":"error","msg":"Signature 4cfwfHDv6C1e7XRXeLBBX2RyiMqTe9wTH4syGuagPsXr7wQfK8jEStVkefEEdpsYkchvTuGHfp69snzkmwYiDigQ has expired: block height exceeded.","ts":"2026-04-02T15:20:35.540Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-02T15:42:13.758Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (31, 26)","ts":"2026-04-02T15:42:14.328Z"}
+{"event":"interaction_queued","sig":"5dQw5oFAsQ5erZCEMfp3YAPb8T7BFdRmriYzRpKeMuvLYujFabtrawQ4A1gG1UL2pmpdeg4CfWRxhHDQU5nPnEvf","explorer":"https://explorer.solana.com/tx/5dQw5oFAsQ5erZCEMfp3YAPb8T7BFdRmriYzRpKeMuvLYujFabtrawQ4A1gG1UL2pmpdeg4CfWRxhHDQU5nPnEvf?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-02T15:42:17.463Z"}
+{"event":"interaction_success","queueSig":"5dQw5oFAsQ5erZCEMfp3YAPb8T7BFdRmriYzRpKeMuvLYujFabtrawQ4A1gG1UL2pmpdeg4CfWRxhHDQU5nPnEvf","finalizeSig":"62E3iHGpa5DLuZyVcBc6bTwC47hZfKbxSc83BKrDvSGjkT4dwJA5JyS2pgAHKYgdE68msUSSmG2m64tDwoTuiamA","clusterOffset":456,"ts":"2026-04-02T15:42:50.259Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T15:50:36.992Z"}
+{"event":"balance","sol":1.380533218,"ts":"2026-04-02T15:50:37.619Z"}
+{"event":"error","msg":"Signature 4ab3FzuFqP6cDEAqZvYx4dtu51Fwi5BLiHtUkU6iYJX7kSPAa4ry6Y4R2pK5N2bF68AEVPUDYwfYtBFgqstb5QWW has expired: block height exceeded.","ts":"2026-04-02T15:51:24.488Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T16:21:25.805Z"}
+{"event":"balance","sol":1.376107073,"ts":"2026-04-02T16:21:26.429Z"}
+{"event":"error","msg":"Signature 4EFWRSzr66hi1JKR5ZsPhyPBxCPNvPkDH8C9GfLe5ucRMXfiMQxQg8Z1GjW72tipUJivNjP8sjqVSjW43xfXoz34 has expired: block height exceeded.","ts":"2026-04-02T16:22:12.943Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-02T16:43:48.273Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (15, 99)","ts":"2026-04-02T16:43:48.920Z"}
+{"event":"interaction_queued","sig":"2Nc9omehbSMpvkSwN9qDYTQhxr6f9ZBUscxd9M3EQMhbLgXdUEfohy5GwZTga99PuDGfiA9M59BPj5mfBvJTSCvD","explorer":"https://explorer.solana.com/tx/2Nc9omehbSMpvkSwN9qDYTQhxr6f9ZBUscxd9M3EQMhbLgXdUEfohy5GwZTga99PuDGfiA9M59BPj5mfBvJTSCvD?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-02T16:43:52.109Z"}
+{"event":"interaction_success","queueSig":"2Nc9omehbSMpvkSwN9qDYTQhxr6f9ZBUscxd9M3EQMhbLgXdUEfohy5GwZTga99PuDGfiA9M59BPj5mfBvJTSCvD","finalizeSig":"RmRYNSTeZbVe4EFeTXoV59RzWkuDobJE1sivt8vhnhM4VJXcQ4JvgqCESv9fZJSNziySS3Cp9d4TshJA6hCH81b","clusterOffset":456,"ts":"2026-04-02T16:44:25.721Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T16:52:14.295Z"}
+{"event":"balance","sol":1.358422657,"ts":"2026-04-02T16:52:14.922Z"}
+{"event":"error","msg":"Signature 5EQ8xmCLzZ2mnMrENkGxq2hqH3n6qdU8d8UMdQqQ7mtnSMhbaPkzVWqC2qjjgEhnAULDJgET74DAoaSJz8edQize has expired: block height exceeded.","ts":"2026-04-02T16:53:02.570Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T17:23:03.988Z"}
+{"event":"balance","sol":1.349529214,"ts":"2026-04-02T17:23:04.550Z"}
+{"event":"error","msg":"Signature 3x55LPQTcwhgxD2K6y8ZEWXCJGA2sQFWDyihzh4RZnUQSUHrgp2FKL4qZevwqWrtsxMBiApbK7b55jzjvLUw57YG has expired: block height exceeded.","ts":"2026-04-02T17:23:50.206Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-02T17:45:22.810Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (36, 34)","ts":"2026-04-02T17:45:23.422Z"}
+{"event":"interaction_queued","sig":"5F72rRCSXVfPubdubUjA5GvZNt6iZk957DVmvYq8H4dARni5pW255g37SeX6tUsuCEb3qzBLrauDx1VFLWzS9gUx","explorer":"https://explorer.solana.com/tx/5F72rRCSXVfPubdubUjA5GvZNt6iZk957DVmvYq8H4dARni5pW255g37SeX6tUsuCEb3qzBLrauDx1VFLWzS9gUx?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-02T17:45:26.586Z"}
+{"event":"interaction_success","queueSig":"5F72rRCSXVfPubdubUjA5GvZNt6iZk957DVmvYq8H4dARni5pW255g37SeX6tUsuCEb3qzBLrauDx1VFLWzS9gUx","finalizeSig":"T2FtdaYw98roxv42Rah2mLD9UC9t855gAho14XZ1mtCYDpmKG7EvconDMgHZnM2dhCWqvF14Zkxbk4c4nyxupmb","clusterOffset":456,"ts":"2026-04-02T17:45:59.629Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T17:53:51.706Z"}
+{"event":"balance","sol":1.336260779,"ts":"2026-04-02T17:53:52.318Z"}
+{"event":"error","msg":"Signature 3uJDz4B89tyeFewQcE1AUjkRV63XH4Qosa4LwNJ1Xb79zVJM3SCjXbWzrSuA7QUTxmpM5WLgyyh2S64t63KALiVj has expired: block height exceeded.","ts":"2026-04-02T17:54:38.684Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T18:24:40.024Z"}
+{"event":"balance","sol":1.327420791,"ts":"2026-04-02T18:24:40.615Z"}
+{"event":"error","msg":"Signature 25Pn4KBo4gNsnDhYaugMumq5dKnWLL6qP42BxdrXjqH1yqd8h7z9kTmgkV3LLGg3BewtvgVbzLhf6ADb8Av9xmuJ has expired: block height exceeded.","ts":"2026-04-02T18:25:25.747Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-02T18:46:57.582Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (48, 67)","ts":"2026-04-02T18:46:58.159Z"}
+{"event":"interaction_queued","sig":"4YFvijH9vQPpYPiRD13zSczF8gdSExjuh5jtu7rCivdUZzGryQ9EtNwaDyzbyyNRrQmeuyzMYuTvQBU7CBE3nKhc","explorer":"https://explorer.solana.com/tx/4YFvijH9vQPpYPiRD13zSczF8gdSExjuh5jtu7rCivdUZzGryQ9EtNwaDyzbyyNRrQmeuyzMYuTvQBU7CBE3nKhc?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-02T18:47:01.209Z"}
+{"event":"interaction_success","queueSig":"4YFvijH9vQPpYPiRD13zSczF8gdSExjuh5jtu7rCivdUZzGryQ9EtNwaDyzbyyNRrQmeuyzMYuTvQBU7CBE3nKhc","finalizeSig":"28S8aGUxHy85Lvt8HLwdgJuEoa4qMTQGBeo4CHPamMkz1JDFXSD4hxbuhdea366yHZyLc5idfHPiSJkyLgAqumya","clusterOffset":456,"ts":"2026-04-02T18:47:33.255Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T18:55:27.148Z"}
+{"event":"balance","sol":1.314105577,"ts":"2026-04-02T18:55:27.764Z"}
+{"event":"error","msg":"Signature CRfT9pdUKotBu3E9xv3uU7ygEw6xHEzVvEoqY3Y8abCcuPZ8cKve8RPHEuuhpmZj6fPL2wMLEN2ohC8yVrt8cUW has expired: block height exceeded.","ts":"2026-04-02T18:56:13.957Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T19:26:15.212Z"}
+{"event":"balance","sol":1.305258287,"ts":"2026-04-02T19:26:15.737Z"}
+{"event":"error","msg":"Signature 3GHFCjQSw6ZRQPESHdvgGFqgjDe7QgV9XpmPWc2webJctr8RADszQKpxqFaBsgh66b2MfXhwBLMTWyhdxnEcPJhU has expired: block height exceeded.","ts":"2026-04-02T19:27:03.206Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-02T19:48:32.171Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (79, 63)","ts":"2026-04-02T19:48:33.202Z"}
+{"event":"interaction_queued","sig":"K4KCkgcb3xkhMMcCoiSb7BnTySx7yADDSFoHxKRPstH7aGc76TbAhNtcSnPrirPXCa7n2BLiQNMgj88rNspfXbv","explorer":"https://explorer.solana.com/tx/K4KCkgcb3xkhMMcCoiSb7BnTySx7yADDSFoHxKRPstH7aGc76TbAhNtcSnPrirPXCa7n2BLiQNMgj88rNspfXbv?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-02T19:48:36.268Z"}
+{"event":"interaction_success","queueSig":"K4KCkgcb3xkhMMcCoiSb7BnTySx7yADDSFoHxKRPstH7aGc76TbAhNtcSnPrirPXCa7n2BLiQNMgj88rNspfXbv","finalizeSig":"4eQHwMiRRAnZprmz3jJr2yykJwYJx38rwGHeT6g67HR9frSWTuKNtLzFWck3XQU8PGT7D7UGqyFk99K14ksasKEt","clusterOffset":456,"ts":"2026-04-02T19:49:10.336Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T19:57:04.480Z"}
+{"event":"balance","sol":1.291996915,"ts":"2026-04-02T19:57:05.042Z"}
+{"event":"error","msg":"Signature 4hfznL3z1HF9bsxHi39ZdkxQWGQxS8DhMXMW9d9GADAy6dG9FyLkRwBhUiien8QdKH7SU1dgxutC6hypd4CsFBWR has expired: block height exceeded.","ts":"2026-04-02T19:57:51.783Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T20:27:53.085Z"}
+{"event":"balance","sol":1.283101196,"ts":"2026-04-02T20:27:53.749Z"}
+{"event":"error","msg":"Signature zn2uFwZcEkGpYAM8DvP4WFpugeepyXrQLqeWNPrEd9g5qD6BiMJ5frJrrQ6NF1VCam46rqd4z4zirxhndiPeZnG has expired: block height exceeded.","ts":"2026-04-02T20:28:40.187Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-02T20:50:07.289Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (79, 94)","ts":"2026-04-02T20:50:07.862Z"}
+{"event":"interaction_queued","sig":"Qc5e86vqVw1vEXeknTxSPdBcEEJ718enaoFDukKDscHHCqsmq2wQRx3xcDbQeuE8qA4nuGumBtdJiUrKo6ZEC4h","explorer":"https://explorer.solana.com/tx/Qc5e86vqVw1vEXeknTxSPdBcEEJ718enaoFDukKDscHHCqsmq2wQRx3xcDbQeuE8qA4nuGumBtdJiUrKo6ZEC4h?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-02T20:50:10.900Z"}
+{"event":"interaction_success","queueSig":"Qc5e86vqVw1vEXeknTxSPdBcEEJ718enaoFDukKDscHHCqsmq2wQRx3xcDbQeuE8qA4nuGumBtdJiUrKo6ZEC4h","finalizeSig":"55yjbt5RrKG4XX7pVnMQ1WRSdHQ1XB4ZRuHXXmhG6RiHskRs4dGykp8Yag94FSuP1GhH4UwAcj2HEDdeSFq6Zw1Z","clusterOffset":456,"ts":"2026-04-02T20:50:42.972Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T20:58:41.651Z"}
+{"event":"balance","sol":1.269832761,"ts":"2026-04-02T20:58:42.192Z"}
+{"event":"error","msg":"Signature 2unyvgwkscrvQcbVbNmtMo3UwyHKwEk5omJu2G4LTzDohVze18yYGQAyzcsGXHcStFCBxSyzR8NLsG6kvw5byCr2 has expired: block height exceeded.","ts":"2026-04-02T20:59:27.933Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T21:29:29.398Z"}
+{"event":"balance","sol":1.260991505,"ts":"2026-04-02T21:29:30.006Z"}
+{"event":"error","msg":"Signature 5pYqFeFKxLE1ZGyedS9KVRDaRBq8o33LsGAyW78WECfMYSzYaE9gdmQqaiAo29XTBMFpaaW26YU8Xq29YWQrGvA3 has expired: block height exceeded.","ts":"2026-04-02T21:30:16.089Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-02T21:51:41.902Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (92, 53)","ts":"2026-04-02T21:51:42.487Z"}
+{"event":"interaction_queued","sig":"2B9x1pL5LPRwKrgg4LMa8xi2pixjF6QT7ReqEgRFgA7ZszBt53UJXoP6HppWW5TsaBbNAjCbo9NHJX761pZydDBr","explorer":"https://explorer.solana.com/tx/2B9x1pL5LPRwKrgg4LMa8xi2pixjF6QT7ReqEgRFgA7ZszBt53UJXoP6HppWW5TsaBbNAjCbo9NHJX761pZydDBr?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-02T21:51:45.645Z"}
+{"event":"interaction_success","queueSig":"2B9x1pL5LPRwKrgg4LMa8xi2pixjF6QT7ReqEgRFgA7ZszBt53UJXoP6HppWW5TsaBbNAjCbo9NHJX761pZydDBr","finalizeSig":"3HQbkezAb1UChDZcMsp5rwVzU6FHVASzNSjPAv6KKzL6T6zuK117AbeyDseLpQ6FKwhGsgLYVa39vbAUxHJtJBRx","clusterOffset":456,"ts":"2026-04-02T21:52:18.696Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T22:00:17.689Z"}
+{"event":"balance","sol":1.24767565,"ts":"2026-04-02T22:00:18.215Z"}
+{"event":"error","msg":"Signature 5BFLWVhaWGbok9U4G7Pj9YE2MFrm4YKbRQxb9cJzsh6MEtu4iboveydvVq7hhMNXZzju2uUCqg5VANPT1SFCFA4o has expired: block height exceeded.","ts":"2026-04-02T22:01:03.949Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T22:31:05.431Z"}
+{"event":"balance","sol":1.23882836,"ts":"2026-04-02T22:31:06.059Z"}
+{"event":"error","msg":"Signature 5aX3EMDDeY5cXv3NFyH1UPyjvvGgN5ejLpcM6onTCw1MBVPbTnTcGKr3mmUQrWt3Q9x56uzbQDjDvuHN6evjK5U7 has expired: block height exceeded.","ts":"2026-04-02T22:31:51.705Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-02T22:53:16.768Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (96, 40)","ts":"2026-04-02T22:53:17.395Z"}
+{"event":"interaction_queued","sig":"4Q2jCSop23D84DSrYwgKxVi9jgyprzb3PCiNGfJLXoUYwTKG4WH8PxqJYoHKxr9ToAjhsvDGyonA6G3koqo9C7UV","explorer":"https://explorer.solana.com/tx/4Q2jCSop23D84DSrYwgKxVi9jgyprzb3PCiNGfJLXoUYwTKG4WH8PxqJYoHKxr9ToAjhsvDGyonA6G3koqo9C7UV?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-02T22:53:21.349Z"}
+{"event":"interaction_success","queueSig":"4Q2jCSop23D84DSrYwgKxVi9jgyprzb3PCiNGfJLXoUYwTKG4WH8PxqJYoHKxr9ToAjhsvDGyonA6G3koqo9C7UV","finalizeSig":"39LneyyLG8K2TwLUBFctANhy6xvznDCJ1RWyjcLLSJ2jeWskHzGMRoHWALC6k16vewMzHjVpgfjESxgmm7MTAxB7","clusterOffset":456,"ts":"2026-04-02T22:53:54.516Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T23:01:53.126Z"}
+{"event":"balance","sol":1.22555747,"ts":"2026-04-02T23:01:53.647Z"}
+{"event":"error","msg":"Signature X2QokxWHQAi1YAP96TrQFUUVicZSa4nAxSxqhTzVW6tvUjYf23MpR4e8nW1tZdPycLvjipdBwzc3FZt3oEJ91PZ has expired: block height exceeded.","ts":"2026-04-02T23:02:39.399Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-02T23:32:40.971Z"}
+{"event":"balance","sol":6.216670824,"ts":"2026-04-02T23:32:41.605Z"}
+{"event":"error","msg":"Signature ijXFfBSZVye6LzQBdkSsku9jcNYNG5DR3AXnz7gKN4dhDb1uV3seJ7vsXLKtj3CCVVHdnyfKTisieVTUim89SjN has expired: block height exceeded.","ts":"2026-04-02T23:33:27.084Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-02T23:54:52.031Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (40, 54)","ts":"2026-04-02T23:54:52.554Z"}
+{"event":"interaction_queued","sig":"78H9fPcWbe412cfRoRbcNWJ99gUKE3ftdJ8pim263soQCwQkcnjpDnw4UV8N7DaPR3HDRnJLmmJnRnN5sNwQpg4","explorer":"https://explorer.solana.com/tx/78H9fPcWbe412cfRoRbcNWJ99gUKE3ftdJ8pim263soQCwQkcnjpDnw4UV8N7DaPR3HDRnJLmmJnRnN5sNwQpg4?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-02T23:54:55.678Z"}
+{"event":"interaction_success","queueSig":"78H9fPcWbe412cfRoRbcNWJ99gUKE3ftdJ8pim263soQCwQkcnjpDnw4UV8N7DaPR3HDRnJLmmJnRnN5sNwQpg4","finalizeSig":"5p6FrHQm8csTy6sqk9ejgSxGNGiF1rjGpZkHz9kM5BXa5FSu9HrmcSEsZScBPVPyAWPG3cJ5XQcNcWGTNdfmwwXm","clusterOffset":456,"ts":"2026-04-02T23:55:28.115Z"}
