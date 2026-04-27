@@ -9613,3 +9613,231 @@
 {"event":"balance","sol":14.301867188,"ts":"2026-04-25T23:47:29.241Z"}
 {"event":"tx_sent","sig":"3huzkZNzPGfYn5vLJzU8ASrnRd829rQEM7r56XmXDYCtDSyGp1JwFekrk8QUgj1yMuEgWne4h6HZoHA7x4BW6iEy","cluster":"devnet","ts":"2026-04-25T23:47:32.708Z"}
 {"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-25T23:47:33.557Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-26T00:08:15.734Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (79, 26)","ts":"2026-04-26T00:08:16.355Z"}
+{"event":"interaction_queued","sig":"3TukYzggzgWgRBtyT5sNZNGkVqqKieP3hBbXt8wdEtRPMdWsHzrmu43idt66D32Ru7T65QFoBQ9hczS2dTc5qTw3","explorer":"https://explorer.solana.com/tx/3TukYzggzgWgRBtyT5sNZNGkVqqKieP3hBbXt8wdEtRPMdWsHzrmu43idt66D32Ru7T65QFoBQ9hczS2dTc5qTw3?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-26T00:08:19.682Z"}
+{"event":"interaction_success","queueSig":"3TukYzggzgWgRBtyT5sNZNGkVqqKieP3hBbXt8wdEtRPMdWsHzrmu43idt66D32Ru7T65QFoBQ9hczS2dTc5qTw3","finalizeSig":"2ofrCcUcNZ2EPQ5rzG9upgBDu42JuNNwMTtgnR5fAxXFZ6H6MB6EKeUYDyVBpuKgAPQcFKkSLB2DZAnAyPHpvajo","clusterOffset":456,"ts":"2026-04-26T00:08:39.553Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T00:17:33.715Z"}
+{"event":"balance","sol":14.288603663,"ts":"2026-04-26T00:17:34.222Z"}
+{"event":"tx_sent","sig":"3QKPALKSZaby8XwoLu28mDYJYKpvggJLMK5JhSU7hfxmp68Toy2sbFEznN2DuDCaUf2JVuKJopjsa244sabZfo1d","cluster":"devnet","ts":"2026-04-26T00:17:37.552Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T00:17:37.892Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T00:47:38.240Z"}
+{"event":"balance","sol":14.279734402,"ts":"2026-04-26T00:47:38.763Z"}
+{"event":"tx_sent","sig":"3WgKmKnbWSQ4y6WZM49XtAwcnAFBqwYMfipRxXKK8DQouw5osP9cAK7pCvsUEpzpEABXFmMKj5qFPj3WnzHNX6t2","cluster":"devnet","ts":"2026-04-26T00:47:42.103Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T00:47:42.411Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-26T01:09:50.487Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (16, 99)","ts":"2026-04-26T01:09:51.105Z"}
+{"event":"interaction_queued","sig":"5bbw3UDMT8g8MDTAMu66d1PmVUymEDvY6pzY3wM8QUaNQfxoU4H4DxPLey5gNT6p4kw8g8yu9HkkE58swgynZDDA","explorer":"https://explorer.solana.com/tx/5bbw3UDMT8g8MDTAMu66d1PmVUymEDvY6pzY3wM8QUaNQfxoU4H4DxPLey5gNT6p4kw8g8yu9HkkE58swgynZDDA?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-26T01:09:54.399Z"}
+{"event":"interaction_success","queueSig":"5bbw3UDMT8g8MDTAMu66d1PmVUymEDvY6pzY3wM8QUaNQfxoU4H4DxPLey5gNT6p4kw8g8yu9HkkE58swgynZDDA","finalizeSig":"5Z3qQrJvRbxyx8AdZSymHmuznSfzRa8QzFYqLzbt6ohRY3aSTEuRYX1beBBuGygKUN6rBRg89sCBNkJpsJyES2JF","clusterOffset":456,"ts":"2026-04-26T01:10:17.107Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T01:17:42.608Z"}
+{"event":"balance","sol":14.266441195,"ts":"2026-04-26T01:17:43.171Z"}
+{"event":"tx_sent","sig":"A8vj1QtB92jAc2Zq9GmV5CgTayXvTdGTbWML92S5QgKEbU7AwC7SwKM2AmzeiQCi5Kio2TbftbBGnSW1qUFCkM3","cluster":"devnet","ts":"2026-04-26T01:17:47.032Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T01:17:47.374Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T01:47:47.584Z"}
+{"event":"balance","sol":14.257593905,"ts":"2026-04-26T01:47:48.153Z"}
+{"event":"tx_sent","sig":"28sTkV67AotbP1U4aed8xube2GhsuqJBhj8tB7qJkWetpMhnCGLbYbp4gTrBUae1xnwGmsUbgFF8WEgHhXpQiRDq","cluster":"devnet","ts":"2026-04-26T01:47:51.576Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T01:47:51.918Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-26T02:11:24.995Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (32, 59)","ts":"2026-04-26T02:11:25.569Z"}
+{"event":"interaction_queued","sig":"4CCFzdKesyLxcWbFbbHotRnUQaYugbdCiDiJgHgykvNxSoiaxKuVY8Y5D1xnLS5H7PPczUaTicoAKU9gAkM2Hstb","explorer":"https://explorer.solana.com/tx/4CCFzdKesyLxcWbFbbHotRnUQaYugbdCiDiJgHgykvNxSoiaxKuVY8Y5D1xnLS5H7PPczUaTicoAKU9gAkM2Hstb?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-26T02:11:28.907Z"}
+{"event":"interaction_success","queueSig":"4CCFzdKesyLxcWbFbbHotRnUQaYugbdCiDiJgHgykvNxSoiaxKuVY8Y5D1xnLS5H7PPczUaTicoAKU9gAkM2Hstb","finalizeSig":"YCoLk5tuoXoXTWSCWHAGVzFqYFTpiiFMU4wH6L9qNEB8S217GgD55sZMypTrsC2kkgZin9yu77Mpc786otrb65d","clusterOffset":456,"ts":"2026-04-26T02:11:49.408Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T02:17:52.092Z"}
+{"event":"balance","sol":14.248751521,"ts":"2026-04-26T02:17:52.606Z"}
+{"event":"tx_sent","sig":"5t3isaALP9Ay3WLeVkQnmjqQrJeGuHzhdgXSH6MzdPiEiXxQ5WoHsxZ1zsbqp6zGrsMcNY1cNteq35C8txS5PfhG","cluster":"devnet","ts":"2026-04-26T02:17:55.900Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T02:17:56.218Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T02:47:56.584Z"}
+{"event":"balance","sol":14.235461901,"ts":"2026-04-26T02:47:57.209Z"}
+{"event":"tx_sent","sig":"3KcaJWkCwn7SezmSNSvHmfBTe3iBP3kCNnKjuKon6DjFyZyRwdfmpehRR2nwJYF4i89c7c52gm3NBVDTsQr57ixw","cluster":"devnet","ts":"2026-04-26T02:48:00.680Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T02:48:01.021Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-26T03:12:59.598Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (82, 32)","ts":"2026-04-26T03:13:00.211Z"}
+{"event":"interaction_queued","sig":"3YBczPGC15VVK4TEvsviRp4yfWHXhSybkcQq77vBQsnqEbY7nDT4zK2wG9z1A8YpsK7fXHDoyfC4bELRksAnPZH","explorer":"https://explorer.solana.com/tx/3YBczPGC15VVK4TEvsviRp4yfWHXhSybkcQq77vBQsnqEbY7nDT4zK2wG9z1A8YpsK7fXHDoyfC4bELRksAnPZH?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-26T03:13:03.507Z"}
+{"event":"interaction_success","queueSig":"3YBczPGC15VVK4TEvsviRp4yfWHXhSybkcQq77vBQsnqEbY7nDT4zK2wG9z1A8YpsK7fXHDoyfC4bELRksAnPZH","finalizeSig":"4DFq5ohWXQR9MrWvm5YbkAHvJSB31nzxx4xU1D5venNHJGX2YD2gB33mzksZ3kGf3tJK3uxsKdh3Lt6UMT5uS7cU","clusterOffset":456,"ts":"2026-04-26T03:13:24.106Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T03:18:01.245Z"}
+{"event":"balance","sol":14.226591978,"ts":"2026-04-26T03:18:01.820Z"}
+{"event":"tx_sent","sig":"2mHtrGbhjsDWVqUA96moJwuTQt961jx4fu4KPFYoknWpCF29xBNKD12eS2iP4YiDksiAbpfo9Wr6X56SrYrs5zFw","cluster":"devnet","ts":"2026-04-26T03:18:05.221Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T03:18:05.574Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T03:48:05.742Z"}
+{"event":"balance","sol":14.213323543,"ts":"2026-04-26T03:48:06.320Z"}
+{"event":"tx_sent","sig":"khbUL9RxgxokwkM1WoFqyQfWGqngQuhuy2bw1UnHRSLeXKL4pQNKp2e7AYDeo1tH3vZoGSgfrdC1ZfuTN9kPFMp","cluster":"devnet","ts":"2026-04-26T03:48:09.812Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T03:48:10.171Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-26T04:14:34.125Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (55, 50)","ts":"2026-04-26T04:14:34.735Z"}
+{"event":"interaction_queued","sig":"4sDEFNhsrokaCVUwPgHXpa759A9xukF9x6u4zn2zUov88AgthrqL1DWur3SiaRa1RmsgEX5Zjz2QFT7wcbw5trPu","explorer":"https://explorer.solana.com/tx/4sDEFNhsrokaCVUwPgHXpa759A9xukF9x6u4zn2zUov88AgthrqL1DWur3SiaRa1RmsgEX5Zjz2QFT7wcbw5trPu?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-26T04:14:38.003Z"}
+{"event":"interaction_success","queueSig":"4sDEFNhsrokaCVUwPgHXpa759A9xukF9x6u4zn2zUov88AgthrqL1DWur3SiaRa1RmsgEX5Zjz2QFT7wcbw5trPu","finalizeSig":"3AMvn8Eu6gF92uGfMZo2G987NgF9unyBsBhhyLjVqka2zQVNKUH3xBtpscnVTrWCdembzwCTBWHVcni2GF4CPRCm","clusterOffset":456,"ts":"2026-04-26T04:14:58.133Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T04:18:10.480Z"}
+{"event":"balance","sol":14.204479713,"ts":"2026-04-26T04:18:11.001Z"}
+{"event":"tx_sent","sig":"2zZH2ceXUbe853iFnmp62eykQhuPsgNVwdX48i1Tz5XuSUyPKpt86S5Ci9V28Gt64DCQe5RfeduRxyQNGvQa5atE","cluster":"devnet","ts":"2026-04-26T04:18:14.235Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T04:18:14.551Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T04:48:14.685Z"}
+{"event":"balance","sol":14.19119006,"ts":"2026-04-26T04:48:15.267Z"}
+{"event":"tx_sent","sig":"5kEbKLYiQPyiw2sPdKrKdLRFenBzvNodviAo7TGasJgQKY9JkxHW1i9rtVKfu9TrDAvb87rypU68EEi7oNtzP52Y","cluster":"devnet","ts":"2026-04-26T04:48:18.688Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T04:48:19.021Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-26T05:16:08.530Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (55, 9)","ts":"2026-04-26T05:16:09.145Z"}
+{"event":"interaction_queued","sig":"48tR2Dn3FPyUGgHQzoj5bqyRvvfFqteNym43EjuBwgMSyN88oTRo3kG7btx5dj4cwjszUPtYbE9doqMZ3dfsrXQL","explorer":"https://explorer.solana.com/tx/48tR2Dn3FPyUGgHQzoj5bqyRvvfFqteNym43EjuBwgMSyN88oTRo3kG7btx5dj4cwjszUPtYbE9doqMZ3dfsrXQL?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-26T05:16:12.548Z"}
+{"event":"interaction_success","queueSig":"48tR2Dn3FPyUGgHQzoj5bqyRvvfFqteNym43EjuBwgMSyN88oTRo3kG7btx5dj4cwjszUPtYbE9doqMZ3dfsrXQL","finalizeSig":"5pRrFGpaXS9tHEQzHqbMvFpLrhdefCLXfT2Gr7kbfQKjFtzHfL9H8Y85kcAwrZ6cbFpdr5H8qNE2pwuLq9hsW8sB","clusterOffset":456,"ts":"2026-04-26T05:16:34.608Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T05:18:19.392Z"}
+{"event":"balance","sol":14.182319074,"ts":"2026-04-26T05:18:19.914Z"}
+{"event":"tx_sent","sig":"iJSevcNrcvoaYQhtbZvE8wCfdiHX6vgdF9chkF2nPfzBK4ktjky1EUwBYJHy8YfGvvDy8TKu3tkDJVmjx4gSAyb","cluster":"devnet","ts":"2026-04-26T05:18:23.171Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T05:18:23.929Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T05:48:24.041Z"}
+{"event":"balance","sol":14.169050639,"ts":"2026-04-26T05:48:24.623Z"}
+{"event":"tx_sent","sig":"xQRSYzLFEsU3EyWS4XkaFEY8XburzqqdsXjUKqD9eQduvdNPLT4xNmfgUuNQwjgHUtNcLfpvcNVHwJCVbsVybzV","cluster":"devnet","ts":"2026-04-26T05:48:28.110Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T05:48:28.466Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-26T06:17:42.965Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (30, 30)","ts":"2026-04-26T06:17:43.579Z"}
+{"event":"interaction_queued","sig":"ZKbckPmFgT1nBaWQ17XvyYuTTZRyTb5iQBXx7jLihvwh4vfbuDFqooEzvCjuYUmb2VYjMUPJJ4zjxhqMGK2kZN2","explorer":"https://explorer.solana.com/tx/ZKbckPmFgT1nBaWQ17XvyYuTTZRyTb5iQBXx7jLihvwh4vfbuDFqooEzvCjuYUmb2VYjMUPJJ4zjxhqMGK2kZN2?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-26T06:17:46.929Z"}
+{"event":"interaction_success","queueSig":"ZKbckPmFgT1nBaWQ17XvyYuTTZRyTb5iQBXx7jLihvwh4vfbuDFqooEzvCjuYUmb2VYjMUPJJ4zjxhqMGK2kZN2","finalizeSig":"4kTaaAdDKRKyArwDU3f1hSdXmXhv1P8vVegBxrZdXzyFSyzEjzdLm9CmkwbAJLYBsA2zYnHxFFVYFXcr9zBtfh4M","clusterOffset":456,"ts":"2026-04-26T06:18:08.781Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T06:18:28.628Z"}
+{"event":"balance","sol":14.160205644,"ts":"2026-04-26T06:18:29.145Z"}
+{"event":"tx_sent","sig":"5i8K8w8Q2oVz32CUeWk6fMLdcG2mmidXMCJVz2AiXPZA2UWiNaQsBrxMqWvTUhW9gEYukpqdXXMMypxkMtFpNmqy","cluster":"devnet","ts":"2026-04-26T06:18:32.950Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T06:18:33.296Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T06:48:33.618Z"}
+{"event":"balance","sol":14.14691753,"ts":"2026-04-26T06:48:34.199Z"}
+{"event":"tx_sent","sig":"3rGqzGfxyK8EYtZf3aZWjpVGgeyfTpaLpEUmd4qyiz1mTbteLuNtP4EndMGi2mKzBAHTJdmJLwCzgMeX7GPVnbqT","cluster":"devnet","ts":"2026-04-26T06:48:35.856Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T06:48:36.194Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T07:18:34.520Z"}
+{"event":"balance","sol":14.142468283,"ts":"2026-04-26T07:18:35.102Z"}
+{"event":"tx_sent","sig":"4VVVMXg2SBwPY4o9z2JtWcvTeGhgRQDmjLfV6QkPW7i5eXSLYe3pLai217z8X4yPM9VVT5v4QChwyTTaTefaDdzU","cluster":"devnet","ts":"2026-04-26T07:18:38.556Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T07:18:38.892Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-26T07:19:15.708Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (64, 82)","ts":"2026-04-26T07:19:16.295Z"}
+{"event":"interaction_queued","sig":"5y6Juw2ijc8yHDp7j4SD28HATmPdRFc6QADFiAFYARNZS6AYjtqamuGb5ckvTmuUmYFwH4aMBMLHmY82iHsa2bKo","explorer":"https://explorer.solana.com/tx/5y6Juw2ijc8yHDp7j4SD28HATmPdRFc6QADFiAFYARNZS6AYjtqamuGb5ckvTmuUmYFwH4aMBMLHmY82iHsa2bKo?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-26T07:19:19.580Z"}
+{"event":"interaction_success","queueSig":"5y6Juw2ijc8yHDp7j4SD28HATmPdRFc6QADFiAFYARNZS6AYjtqamuGb5ckvTmuUmYFwH4aMBMLHmY82iHsa2bKo","finalizeSig":"4yrgQPmc8t1Hadzkn3uXwukNiace7QNHKCjt7912BpiWKsoLijcz5YCc6c1T2btYyCYkAirtbQ9d3rjNkDD2Kp7x","clusterOffset":456,"ts":"2026-04-26T07:19:42.135Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T07:48:41.104Z"}
+{"event":"balance","sol":14.124778703,"ts":"2026-04-26T07:48:41.662Z"}
+{"event":"tx_sent","sig":"5X15BiAS7PWU4KSzKy5FpnijS3SYiUcgn8fXznw5C9eE6oqSfvQGB55VKF2KmryYVzoo7yVQ5r3mpYE1CJVZErHu","cluster":"devnet","ts":"2026-04-26T07:48:43.015Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T07:48:43.831Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T08:18:44.132Z"}
+{"event":"balance","sol":14.120354773,"ts":"2026-04-26T08:18:44.715Z"}
+{"event":"tx_sent","sig":"48zhouQawtgVCzVGVcVssi25CGksugvfbDqjVHzNUtTfG4PyFNdKoHKeLRiScVnLJ8DPAYTCnDkDg7VCfQDMm7ya","cluster":"devnet","ts":"2026-04-26T08:18:48.534Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T08:18:48.863Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-26T08:20:52.218Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (24, 18)","ts":"2026-04-26T08:20:52.854Z"}
+{"event":"interaction_queued","sig":"SQ2pjGWBGXM9opPqTzuUhpEuXZR6m3MJMHyBATpiTbfV1Pcns47YjuhBL1JhdhtAddcMtkFmz2uNG4rm5Ec9sVT","explorer":"https://explorer.solana.com/tx/SQ2pjGWBGXM9opPqTzuUhpEuXZR6m3MJMHyBATpiTbfV1Pcns47YjuhBL1JhdhtAddcMtkFmz2uNG4rm5Ec9sVT?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-26T08:20:56.100Z"}
+{"event":"interaction_success","queueSig":"SQ2pjGWBGXM9opPqTzuUhpEuXZR6m3MJMHyBATpiTbfV1Pcns47YjuhBL1JhdhtAddcMtkFmz2uNG4rm5Ec9sVT","finalizeSig":"3eEjrgZUR5UfWeLhbtyrHdLiyuknHCSKvxYiGxiuLABJyyHa1AYJ72Hc2ghTpSGF4K1vKU8Bf5X7yNCM5QQ2Te7t","clusterOffset":456,"ts":"2026-04-26T08:21:16.537Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T08:48:49.126Z"}
+{"event":"balance","sol":14.102644806,"ts":"2026-04-26T08:48:49.755Z"}
+{"event":"tx_sent","sig":"PpiZDsCn1FJupFrrUXQyfVmEKTTetFDvucV3KaSpAH3TT7YWLr7PdJpGXqTx6nNMrdVWKzUd6EtnnyVinEYgJ8e","cluster":"devnet","ts":"2026-04-26T08:48:53.319Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T08:48:53.661Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T09:18:53.897Z"}
+{"event":"balance","sol":14.098194218,"ts":"2026-04-26T09:18:54.471Z"}
+{"event":"tx_sent","sig":"5snbL9kDeCjMwK8Ti8ArMaCMFedfNs3dwQgkSLUkFuH6PMidyfALHaarSZjwHrPZtWydbiFvQANPGsjydMzqV1P9","cluster":"devnet","ts":"2026-04-26T09:18:56.170Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T09:18:56.513Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-26T09:22:26.512Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (68, 58)","ts":"2026-04-26T09:22:27.104Z"}
+{"event":"interaction_queued","sig":"2EaL8xN9Cgj9E7yqBdHa5rUe9KDRC4d8XUKzHDramvw6MSiebJzDBTwmDF58tySEyYUUdfnXtntMYiv55iGbTqLi","explorer":"https://explorer.solana.com/tx/2EaL8xN9Cgj9E7yqBdHa5rUe9KDRC4d8XUKzHDramvw6MSiebJzDBTwmDF58tySEyYUUdfnXtntMYiv55iGbTqLi?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-26T09:22:30.498Z"}
+{"event":"interaction_success","queueSig":"2EaL8xN9Cgj9E7yqBdHa5rUe9KDRC4d8XUKzHDramvw6MSiebJzDBTwmDF58tySEyYUUdfnXtntMYiv55iGbTqLi","finalizeSig":"28CnbMsamBr6zHRWyunYmFPRcfDy9N73JkKMBo3s9jHGT9JcYBLbjojU8J1Pf7ESuz1j1NJLpnZEqb1EeA6muopi","clusterOffset":456,"ts":"2026-04-26T09:22:50.736Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T09:48:56.790Z"}
+{"event":"balance","sol":14.080504638,"ts":"2026-04-26T09:48:57.360Z"}
+{"event":"tx_sent","sig":"3ZaR96FrG37VKnf8gSM37N5Uj66P9YEouptZPRT9rn1wr1KyVP9dMQ9jSbcza4igXNG2w9JUzEw5dhRsiHuJNns4","cluster":"devnet","ts":"2026-04-26T09:49:00.930Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T09:49:01.287Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T10:19:01.621Z"}
+{"event":"balance","sol":14.076083018,"ts":"2026-04-26T10:19:02.204Z"}
+{"event":"tx_sent","sig":"5rdUhT6n3TAU3fSyj791sssZPRziVuvpY7H5ZdrqHgNKCuqL7Yn2dYDxzgMP3ZLVvkdoPwxRMkbZTzuFJZcEjVLG","cluster":"devnet","ts":"2026-04-26T10:19:06.183Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T10:19:06.532Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-26T10:24:01.163Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (58, 86)","ts":"2026-04-26T10:24:01.771Z"}
+{"event":"interaction_queued","sig":"64gMCDSpqXybLut498NPqc9mkq5srCxUe5Zw64JZm22XcL2QbC5JNPaogGGPhBww9QVTsZzunYV7jiv2X7oK624D","explorer":"https://explorer.solana.com/tx/64gMCDSpqXybLut498NPqc9mkq5srCxUe5Zw64JZm22XcL2QbC5JNPaogGGPhBww9QVTsZzunYV7jiv2X7oK624D?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-26T10:24:05.077Z"}
+{"event":"interaction_success","queueSig":"64gMCDSpqXybLut498NPqc9mkq5srCxUe5Zw64JZm22XcL2QbC5JNPaogGGPhBww9QVTsZzunYV7jiv2X7oK624D","finalizeSig":"5bbwR4fYnUXb5MiDjVwLuxdttqAbA52LcZsAtnnMJqjsLZd9sYXjBNXJgyqwK13eqMTkNmoLG65wtoiJ7vUwGX5P","clusterOffset":456,"ts":"2026-04-26T10:24:27.045Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T10:49:06.793Z"}
+{"event":"balance","sol":14.058373938,"ts":"2026-04-26T10:49:07.444Z"}
+{"event":"tx_sent","sig":"QLC6AfLP5fPpeTi4iKpuJY8D1KFPtuAcVD14RzAHBj5uiWWeW4fo8deTj7jBVZhovcAnD3eQUZzm9eoYD9Sf7KR","cluster":"devnet","ts":"2026-04-26T10:49:11.013Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T10:49:11.424Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T11:19:11.749Z"}
+{"event":"balance","sol":14.053922827,"ts":"2026-04-26T11:19:12.322Z"}
+{"event":"tx_sent","sig":"54DxjWCgpAh2PHT2u8aEyuVM9iJ4ajFo9Ue19qog7PcnXDtXdLeBQrk8oyYfBcUuqFTKnz1W7FpPFNVaqfqHPxQg","cluster":"devnet","ts":"2026-04-26T11:19:15.832Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T11:19:16.187Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-26T11:25:35.692Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (69, 62)","ts":"2026-04-26T11:25:36.226Z"}
+{"event":"interaction_queued","sig":"3XD1brp2GvsGkJWViHGjTSBNMF4EjPahQPGg1wcp7De7ym36gMzPpssKP38fT6vD5mjXQFgbS64WNMPi5cXjQY5F","explorer":"https://explorer.solana.com/tx/3XD1brp2GvsGkJWViHGjTSBNMF4EjPahQPGg1wcp7De7ym36gMzPpssKP38fT6vD5mjXQFgbS64WNMPi5cXjQY5F?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-26T11:25:39.577Z"}
+{"event":"interaction_success","queueSig":"3XD1brp2GvsGkJWViHGjTSBNMF4EjPahQPGg1wcp7De7ym36gMzPpssKP38fT6vD5mjXQFgbS64WNMPi5cXjQY5F","finalizeSig":"4EBkBLcpnTJtLmbW5jkQasGsDFi2B7gmuMdMSXb9TLxPcVdFo34hhHKt5WQiKH8JmdaV7DQhBiTDtcZVDgTeVW25","clusterOffset":456,"ts":"2026-04-26T11:26:03.322Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T11:49:16.480Z"}
+{"event":"balance","sol":14.036233247,"ts":"2026-04-26T11:49:17.052Z"}
+{"event":"tx_sent","sig":"5K1W3Ze3NxjCq6DLGofuK1UhbWUDRwGdSx7UEAAMJ17UhngU19UeQzh313qgsMuAPkRWLZzNvA8CHcNuDRq1XhHH","cluster":"devnet","ts":"2026-04-26T11:49:18.333Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T11:49:18.714Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T12:19:18.932Z"}
+{"event":"balance","sol":14.031810255,"ts":"2026-04-26T12:19:19.990Z"}
+{"event":"tx_sent","sig":"4BYwdtgFj2t5s9NuKGjC4f7oJ9dbYHHHeAQ2SgcT8mMttp8jbzqaUe9F82SFxTQmoaL2k23vphavHDLTstG5WJD3","cluster":"devnet","ts":"2026-04-26T12:19:23.356Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T12:19:23.687Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-26T12:27:10.054Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (32, 59)","ts":"2026-04-26T12:27:10.609Z"}
+{"event":"interaction_queued","sig":"2RGFKfj19cHJ2jSbWUZKiCfV1Uxmg5k5Y1i1ByHNzVPVzhZUSjPfrRU9bjHm3DX52CUkUYngRjBqDD4vQ2U3ency","explorer":"https://explorer.solana.com/tx/2RGFKfj19cHJ2jSbWUZKiCfV1Uxmg5k5Y1i1ByHNzVPVzhZUSjPfrRU9bjHm3DX52CUkUYngRjBqDD4vQ2U3ency?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-26T12:27:14.004Z"}
+{"event":"interaction_success","queueSig":"2RGFKfj19cHJ2jSbWUZKiCfV1Uxmg5k5Y1i1ByHNzVPVzhZUSjPfrRU9bjHm3DX52CUkUYngRjBqDD4vQ2U3ency","finalizeSig":"Cscnf5zXJKVNVZ9Am5dHchYDPsF14j1tviZzghzMqefXzqkQyxaeM3TNSz7YMZLuaFeVEA3fu1TJnPPKMUezkNd","clusterOffset":456,"ts":"2026-04-26T12:27:35.250Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T12:49:24.001Z"}
+{"event":"balance","sol":14.014100191,"ts":"2026-04-26T12:49:24.571Z"}
+{"event":"tx_sent","sig":"5F961ggsVrP9F9nVMZRdkED2d6Uf6fn5NVd6NV6nGc3rGtx9F48H23HvSDPZJnBSdHXv2ZQnGbb2wEVBdFzLnZYc","cluster":"devnet","ts":"2026-04-26T12:49:28.056Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T12:49:28.412Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T13:19:28.709Z"}
+{"event":"balance","sol":14.009649671,"ts":"2026-04-26T13:19:29.289Z"}
+{"event":"tx_sent","sig":"2gXKqKtF9scZH4MHKVxbaKFcPtRpYd1oXcfNUGtwsc5Yw8q2YPJuQAGdHnvG5PkhtoUC6ySfvQnvDbTzogRw9i4s","cluster":"devnet","ts":"2026-04-26T13:19:32.792Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T13:19:33.124Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-26T13:28:44.630Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (88, 2)","ts":"2026-04-26T13:28:45.232Z"}
+{"event":"interaction_queued","sig":"JNhMQZFz9GirqbDMuwiQjtQ3b4zKLJpAQENct1yqfTRFMBFGCx3gA4E3uwjfzuoerErbFAdLBhBq3pphA97oKCq","explorer":"https://explorer.solana.com/tx/JNhMQZFz9GirqbDMuwiQjtQ3b4zKLJpAQENct1yqfTRFMBFGCx3gA4E3uwjfzuoerErbFAdLBhBq3pphA97oKCq?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-26T13:28:48.523Z"}
+{"event":"interaction_success","queueSig":"JNhMQZFz9GirqbDMuwiQjtQ3b4zKLJpAQENct1yqfTRFMBFGCx3gA4E3uwjfzuoerErbFAdLBhBq3pphA97oKCq","finalizeSig":"55pkWv5aBWTDiyj7KgxWVfzkQj2Z1RvHeK7pnwQ2tu6qmpKcSTmVM3iTKcRoGE4qpXm3eDGkFrakpzkXhD382xx3","clusterOffset":456,"ts":"2026-04-26T13:29:09.799Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T13:49:33.426Z"}
+{"event":"balance","sol":13.991960091,"ts":"2026-04-26T13:49:34.011Z"}
+{"event":"tx_sent","sig":"31Nc7YWs2JscXfxkZTSZ1fRXB4QWZmhnngoFeGhNHGNLfyy3GZQxnNR3ocLreujKSoqq62dZBc2dQc725XwZyMF5","cluster":"devnet","ts":"2026-04-26T13:49:37.385Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T13:49:37.706Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T14:19:38.000Z"}
+{"event":"balance","sol":13.987537348,"ts":"2026-04-26T14:19:39.076Z"}
+{"event":"tx_sent","sig":"54U4WxcR1Ki3G29UWp9YakeRfboArBiC7WjTX4AQMaBTn2LZkhiTqaXbmHpvqwdpUV9xYfuLrXkx3xFndULLq7gG","cluster":"devnet","ts":"2026-04-26T14:19:42.604Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T14:19:42.956Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-26T14:30:18.953Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (39, 90)","ts":"2026-04-26T14:30:19.545Z"}
+{"event":"interaction_queued","sig":"4VxszKepevjS4NVYn8houRGgxrqNAbedQqApWx5bfcNyRL4YmPpV1WJhVptkoYUEwHV5T63GGK8bsqt1vH92F3cC","explorer":"https://explorer.solana.com/tx/4VxszKepevjS4NVYn8houRGgxrqNAbedQqApWx5bfcNyRL4YmPpV1WJhVptkoYUEwHV5T63GGK8bsqt1vH92F3cC?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-26T14:30:22.863Z"}
+{"event":"interaction_success","queueSig":"4VxszKepevjS4NVYn8houRGgxrqNAbedQqApWx5bfcNyRL4YmPpV1WJhVptkoYUEwHV5T63GGK8bsqt1vH92F3cC","finalizeSig":"gVz4AMjadRHgcCxSmLDfYXdyoiVUgnkU7AqZf41tHm6KKgRYJgAZ3iFNebec6D5mz21L38FPRg3r3N1AnSQkKJQ","clusterOffset":456,"ts":"2026-04-26T14:30:45.293Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T14:49:43.285Z"}
+{"event":"balance","sol":13.969827056,"ts":"2026-04-26T14:49:43.795Z"}
+{"event":"tx_sent","sig":"5ZtC19Srngww4Cpw5LhDpuQeo8whhEaGFDpcGomVneS5zwhBNBVoEt5sTEp5XL9MufZRYkHxKjH8fci1q6pM6bRb","cluster":"devnet","ts":"2026-04-26T14:49:47.135Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T14:49:47.498Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T15:19:47.795Z"}
+{"event":"balance","sol":13.965376658,"ts":"2026-04-26T15:19:48.813Z"}
+{"event":"tx_sent","sig":"zbbmWF6MtSxFp5apGNmvLqgVtx6j56US8CwYGtKMLRU4JDrZgCMWuK7V6cw8wPPBBZWAmeGxFFMgPCWX4PkBcFx","cluster":"devnet","ts":"2026-04-26T15:19:52.182Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T15:19:52.504Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-26T15:31:53.428Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (19, 44)","ts":"2026-04-26T15:31:54.023Z"}
+{"event":"interaction_queued","sig":"3YaM3pp1qd2rPamJEcbq5CzntkH1XmZZbbzWnecVC3QpP9LN1HHUsMmfkE9ozGhi96o73uGfms54JCdwX6sE1QoJ","explorer":"https://explorer.solana.com/tx/3YaM3pp1qd2rPamJEcbq5CzntkH1XmZZbbzWnecVC3QpP9LN1HHUsMmfkE9ozGhi96o73uGfms54JCdwX6sE1QoJ?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-26T15:31:57.893Z"}
+{"event":"interaction_success","queueSig":"3YaM3pp1qd2rPamJEcbq5CzntkH1XmZZbbzWnecVC3QpP9LN1HHUsMmfkE9ozGhi96o73uGfms54JCdwX6sE1QoJ","finalizeSig":"4kksx3c2MD3JzB754aaduWRWZjRR7MQd8CPTegxhRFAsT3XUsrtWg65qiu7bo5W2Kmz1i6gNRKgFod5BjPoD4vh5","clusterOffset":456,"ts":"2026-04-26T15:32:19.551Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T15:49:52.748Z"}
+{"event":"balance","sol":13.952108223,"ts":"2026-04-26T15:49:53.257Z"}
+{"event":"tx_sent","sig":"5GVBCBErSysaCV7vod6GcuCKJBmfjJqV3EbAmivJnubn4dk3RJTg9VQr1MWjUeZ6drnMqevCQoZhcaF2jyedCTFc","cluster":"devnet","ts":"2026-04-26T15:49:56.680Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T15:49:57.023Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T16:19:57.098Z"}
+{"event":"balance","sol":13.943264036,"ts":"2026-04-26T16:19:57.657Z"}
+{"event":"tx_sent","sig":"FxM25Pmg4Fhsv65RgjGmXMAAVMEc5RF7c6SvZDvemvLNLij515LosMJAfPBUeTYCLCV6tchzNx7UqXp53UF9JPk","cluster":"devnet","ts":"2026-04-26T16:20:01.054Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T16:20:01.378Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-26T16:33:28.279Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (41, 65)","ts":"2026-04-26T16:33:28.921Z"}
+{"event":"interaction_queued","sig":"3PFxM4rxvmrkjgkAJmoT5LfspKVupRo6pBVmd443RozMTBgFgDvCeXtk6vXcGTsrMmbZxhkXEzjUds7GPpShcKvj","explorer":"https://explorer.solana.com/tx/3PFxM4rxvmrkjgkAJmoT5LfspKVupRo6pBVmd443RozMTBgFgDvCeXtk6vXcGTsrMmbZxhkXEzjUds7GPpShcKvj?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-26T16:33:32.214Z"}
+{"event":"interaction_success","queueSig":"3PFxM4rxvmrkjgkAJmoT5LfspKVupRo6pBVmd443RozMTBgFgDvCeXtk6vXcGTsrMmbZxhkXEzjUds7GPpShcKvj","finalizeSig":"3mqduoBdz5QujuxcTKHHAkTJmW87QegrmaDa15NsL4LdjKiGZeRCgCD4ohmFUHmVQom76GfaKxKxpT1TU62k3xq6","clusterOffset":456,"ts":"2026-04-26T16:33:52.551Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T16:50:01.722Z"}
+{"event":"balance","sol":13.929976911,"ts":"2026-04-26T16:50:02.240Z"}
+{"event":"tx_sent","sig":"2Fj3hJYSgFEPAwUVVG3AsF3aqZPNsyg5BxuLek5bidz6Y8j2wM6ALCu2KxJvSfXaFw2J9vVj1EdwqYJbEVd1XhMk","cluster":"devnet","ts":"2026-04-26T16:50:05.563Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T16:50:05.882Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T17:20:06.039Z"}
+{"event":"balance","sol":13.921106858,"ts":"2026-04-26T17:20:06.654Z"}
+{"event":"tx_sent","sig":"Lxevfuo4RvTu5MNQMxXBrwWgscJNwUe6T9GCpX4yf9x9vcUhgByR7Kekede9L2hUhRMEZMFQkQUJYP8L8PjiyTw","cluster":"devnet","ts":"2026-04-26T17:20:10.118Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T17:20:10.452Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-26T17:35:02.844Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (38, 71)","ts":"2026-04-26T17:35:03.865Z"}
+{"event":"interaction_queued","sig":"ewEqPQSR3ydjicYAvretkBYZTVNM53kHZz8Jd5Gt1iQ6bCzftjzjnhgzJwhKLjv6vStKKHa5seQSSsz3X4EJ3qD","explorer":"https://explorer.solana.com/tx/ewEqPQSR3ydjicYAvretkBYZTVNM53kHZz8Jd5Gt1iQ6bCzftjzjnhgzJwhKLjv6vStKKHa5seQSSsz3X4EJ3qD?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-26T17:35:07.195Z"}
+{"event":"interaction_success","queueSig":"ewEqPQSR3ydjicYAvretkBYZTVNM53kHZz8Jd5Gt1iQ6bCzftjzjnhgzJwhKLjv6vStKKHa5seQSSsz3X4EJ3qD","finalizeSig":"5fNijPP42SRWpumSQPuZJcQ3pYDZS7sh8qyUzA96RNYLVawztc3pUuMGtR5W19hzZmGU6UCek6TeUwUqVakSnVZT","clusterOffset":456,"ts":"2026-04-26T17:35:26.832Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T17:50:10.641Z"}
+{"event":"balance","sol":13.907838423,"ts":"2026-04-26T17:50:11.174Z"}
+{"event":"tx_sent","sig":"4siynhtDs9QX7kNn5D4Q2QYtHHxFULhqYNrYDHQp43Ydts1cbmavxq1Nfw7PmgsQzjobNdK97S6dccyrN5w4bmYH","cluster":"devnet","ts":"2026-04-26T17:50:14.548Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T17:50:14.891Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T18:20:15.266Z"}
+{"event":"balance","sol":13.898994046,"ts":"2026-04-26T18:20:15.893Z"}
+{"event":"tx_sent","sig":"2KLk6eyk78GLBTah6s1K3Zp7dkV7TSJUYVN6HgXkJXo7CzEcsfizcJL8kDHXwUTRj8RsRMHxSwMBUCaPtM81sKHh","cluster":"devnet","ts":"2026-04-26T18:20:19.760Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T18:20:20.100Z"}
+{"event":"demo_start","program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","description":"Encrypted medication interaction check via MXE","ts":"2026-04-26T18:36:37.806Z"}
+{"event":"medication_pair","drug1":"encrypted","drug2":"encrypted","note":"Local sample codes prepared for private interaction check (11, 97)","ts":"2026-04-26T18:36:38.380Z"}
+{"event":"interaction_queued","sig":"5xZbU4FZXDoMXKsN8UHQuZgso1DXNk5HMKSPM1y8f9KEm9BjyyzJCyZLQEWaENStP1VfHBU7jfaFG9gnjkptZXeU","explorer":"https://explorer.solana.com/tx/5xZbU4FZXDoMXKsN8UHQuZgso1DXNk5HMKSPM1y8f9KEm9BjyyzJCyZLQEWaENStP1VfHBU7jfaFG9gnjkptZXeU?cluster=devnet","note":"Medication interaction check queued in MXE cluster 456","ts":"2026-04-26T18:36:41.723Z"}
+{"event":"interaction_success","queueSig":"5xZbU4FZXDoMXKsN8UHQuZgso1DXNk5HMKSPM1y8f9KEm9BjyyzJCyZLQEWaENStP1VfHBU7jfaFG9gnjkptZXeU","finalizeSig":"tEh5yrtDPezXY1851Dtr6nXvw2r2LU8A7wPYGZxt1m29XAXFYWm2NWq1piUeHiGWgFKano9rao1PZk8vt6dQoUv","clusterOffset":456,"ts":"2026-04-26T18:37:01.904Z"}
+{"event":"start","wallet":"EwC5azGNJmvyT6NVHF8fvrQbKHod1YqXmf1BQFY5n7KR","ts":"2026-04-26T18:50:20.338Z"}
+{"event":"balance","sol":13.885708039,"ts":"2026-04-26T18:50:20.883Z"}
+{"event":"tx_sent","sig":"2xWSmCcPx1oTzR4jXd9FSPHi4JkwS54CgVyXW7mVTNWCGSaLc67LLgzbAbzgiQcBj8SvYtCK5exbVGY1c3gYU5Nm","cluster":"devnet","ts":"2026-04-26T18:50:24.242Z"}
+{"event":"arcium_ping","active":true,"program":"4VxzAxbQspysvUAvRdkdNxw9Ew3LZaAP2V78gMrQirUY","ts":"2026-04-26T18:50:24.582Z"}
